@@ -11,6 +11,7 @@ namespace App9
     {
         public App()
         {
+
             InitializeComponent();
 
             MainPage = new App9.MainPage();
